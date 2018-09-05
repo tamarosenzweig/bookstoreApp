@@ -10,19 +10,19 @@ this project bookStore use :
 
 ## Run this app in dev mode- client side:
 ```bash
-clone 'https://github.com/efratzadok0879/book-store-app.git'
+clone 'https://github.com/tamarshankolevsky/bookstoreApp.git'
 cd bookStore
 npm i
 ng serve --open
 ```
 ## Run this app in dev mode- server side:
 ```bash
-clone 'https://github.com/efratzadok0879/book-store-app.git'
+clone 'https://github.com/tamarshankolevsky/bookstoreApp.git'
 cd bookStore-frontend
 npm i
 npm start
 ```
 
 ##### See live demo:
-https://lit-temple-43730.herokuapp.com/book-store
+https://aqueous-falls-14723.herokuapp.com/book-store
 
