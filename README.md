@@ -25,6 +25,4 @@ npm start
 
 ##### See live demo:
 https://aqueous-falls-14723.herokuapp.com/book-store
-```bush
-//modal dialog is not work in heroku, only in localhost
-```
+
